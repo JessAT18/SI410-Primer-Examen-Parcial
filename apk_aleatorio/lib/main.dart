@@ -26,8 +26,9 @@ class Inicio extends StatefulWidget {
 }
 
 class _InicioState extends State<Inicio> {
-  var randomNumber = Random().nextInt(1000);
+  
   Future<String> sendData() async{
+    var randomNumber = new Random().nextInt(1000);
     var response = await http.post(
       Uri.https('apidoblejess.azurewebsites.net', '/api/random'),
       headers: <String, String>{
@@ -44,7 +45,7 @@ class _InicioState extends State<Inicio> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Mi App Jessica"),
+        title: Text("APK Aleatorio"),
       ),
       body: Center(
         child: new ElevatedButton(
