@@ -9,8 +9,8 @@
     public class Random
     {
         [Key]
-        [DataType(DataType.DateTime)]
         [Required]
+        [DataType(DataType.DateTime)]
         public DateTime dateTime { get; set; }
         [Required]
         public int random { get; set; }
