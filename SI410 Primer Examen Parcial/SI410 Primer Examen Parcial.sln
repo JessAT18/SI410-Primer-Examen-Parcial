@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiDoble", "apiDoble\apiDoble.csproj", "{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncPar", "fncPar\fncPar.csproj", "{4E412354-E854-46CA-A3E4-53EE21641418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncImpar", "fncImpar\fncImpar.csproj", "{EFA9FE33-EC2A-4FC1-B054-5DC35F489889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E412354-E854-46CA-A3E4-53EE21641418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E412354-E854-46CA-A3E4-53EE21641418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E412354-E854-46CA-A3E4-53EE21641418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E412354-E854-46CA-A3E4-53EE21641418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA9FE33-EC2A-4FC1-B054-5DC35F489889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA9FE33-EC2A-4FC1-B054-5DC35F489889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA9FE33-EC2A-4FC1-B054-5DC35F489889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA9FE33-EC2A-4FC1-B054-5DC35F489889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
