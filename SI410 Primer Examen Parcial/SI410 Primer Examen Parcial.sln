@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiDoble", "apiDoble\apiDoble.csproj", "{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7837DA-B6FF-46D5-8039-C3AFB07FF308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BE9946-C229-4597-8945-47311E96308E}
+	EndGlobalSection
+EndGlobal
